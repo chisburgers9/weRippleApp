@@ -1,0 +1,33 @@
+/**************
+GENERAL 
+***************/
+header{
+	text-align: center;
+}
+footer{
+	text-align: right;
+}
+
+a:link, a:visited {
+	color: blue;
+}
+
+a:active {
+	color: red;
+}
+
+
+/**************
+NAVIGATION
+***************/
+
+#home nav ul {
+	padding: 0;
+}
+
+#home nav li {
+	display: inline-block;
+	text-align: center;
+	padding: 3px;
+}
+
